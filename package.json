@@ -4,6 +4,7 @@
   "description": "Makes friendly text for use in URLs.",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint \"./**/*.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
