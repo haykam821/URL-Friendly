@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/haykam821/URL-Friendly/issues"
   },
-  "homepage": "https://github.com/haykam821/URL-Friendly#readme"
+  "homepage": "https://github.com/haykam821/URL-Friendly#readme",
+  "dependencies": {
+    "eslint": "^5.9.0",
+    "eslint-plugin-extra-rules": "^0.8.1",
+    "eslint-plugin-html": "^5.0.0",
+    "eslint-plugin-json": "^1.2.1",
+    "eslint-plugin-markdown": "^1.0.0-rc.0",
+    "eslint-plugin-unicorn": "^6.0.1"
+  }
 }
