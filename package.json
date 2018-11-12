@@ -1,34 +1,34 @@
 {
-  "name": "url-friendly",
-  "version": "1.0.0",
-  "description": "Makes friendly text for use in URLs.",
-  "main": "index.js",
-  "scripts": {
-    "lint": "eslint \"./**/*.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/haykam821/URL-Friendly.git"
-  },
-  "keywords": [
-    "url",
-    "safe",
-    "slug"
-  ],
-  "author": "haykam821",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/haykam821/URL-Friendly/issues"
-  },
-  "homepage": "https://github.com/haykam821/URL-Friendly#readme",
-  "dependencies": {
-    "eslint": "^5.9.0",
-    "eslint-config-haykam": "^1.5.1",
-    "eslint-plugin-extra-rules": "^0.8.1",
-    "eslint-plugin-html": "^5.0.0",
-    "eslint-plugin-json": "^1.2.1",
-    "eslint-plugin-markdown": "^1.0.0-rc.0",
-    "eslint-plugin-unicorn": "^6.0.1"
-  }
+	"name": "url-friendly",
+	"version": "1.0.0",
+	"description": "Makes friendly text for use in URLs.",
+	"main": "index.js",
+	"scripts": {
+		"lint": "eslint \"./**/*.js\"",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/haykam821/URL-Friendly.git"
+	},
+	"keywords": [
+		"url",
+		"safe",
+		"slug"
+	],
+	"author": "haykam821",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/haykam821/URL-Friendly/issues"
+	},
+	"homepage": "https://github.com/haykam821/URL-Friendly#readme",
+	"dependencies": {
+		"eslint": "^5.9.0",
+		"eslint-config-haykam": "^1.5.1",
+		"eslint-plugin-extra-rules": "^0.8.1",
+		"eslint-plugin-html": "^5.0.0",
+		"eslint-plugin-json": "^1.2.1",
+		"eslint-plugin-markdown": "^1.0.0-rc.0",
+		"eslint-plugin-unicorn": "^6.0.1"
+	}
 }

@@ -1,1 +1,1 @@
-# URL-Friendly
+# URL Friendly
