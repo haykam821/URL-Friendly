@@ -1,0 +1,24 @@
+{
+  "name": "url-friendly",
+  "version": "1.0.0",
+  "description": "Makes friendly text for use in URLs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haykam821/URL-Friendly.git"
+  },
+  "keywords": [
+    "url",
+    "safe",
+    "slug"
+  ],
+  "author": "haykam821",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haykam821/URL-Friendly/issues"
+  },
+  "homepage": "https://github.com/haykam821/URL-Friendly#readme"
+}
