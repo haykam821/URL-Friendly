@@ -1,6 +1,6 @@
 {
 	"name": "url-friendly",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Makes friendly text for use in URLs.",
 	"main": "index.js",
 	"scripts": {
