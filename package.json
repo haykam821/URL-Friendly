@@ -22,7 +22,7 @@
 		"url": "https://github.com/haykam821/URL-Friendly/issues"
 	},
 	"homepage": "https://github.com/haykam821/URL-Friendly#readme",
-	"dependencies": {
+	"devDependencies": {
 		"eslint": "^5.9.0",
 		"eslint-config-haykam": "^1.5.1",
 		"eslint-plugin-extra-rules": "^0.8.1",
